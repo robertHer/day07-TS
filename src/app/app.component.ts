@@ -6,6 +6,7 @@ interface Fighter{
 }
 let fighter1:Fighter = {name:'tod',points :5} ;
 let fighter2:Fighter = {name:'james', points: 10};
+
 console.log(fighter1);
 console.log(fighter2);
 
