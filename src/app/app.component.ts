@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import {Sedan} from './vehicle.model';
+
 
 @Component({
   selector: 'app-root',
