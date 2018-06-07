@@ -11,6 +11,5 @@ export class Sedan{
 } 
 
 
-let honda = new Sedan ('honda', 'serw', 1990);
-let ford = new Sedan ('ford', 'fadw', 1990);
+
 
