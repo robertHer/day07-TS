@@ -7,4 +7,12 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+
+  displayParagraph:boolean = false;
+
+ colorRed:string = "color-red";
+ colorYellow:string = "background-yellow";
+ hidetext:string = "hide-text";
+ arr:any[]= ['color-red'];
+
 }
